@@ -18,7 +18,7 @@ const ShawnJim = {
   communities: {
       apache: "Apache ShenYu Committer",
   },
-  challenge: "No Code"
+  challenge: "NoExperienceException"
 }
 ```
 
