@@ -1,18 +1,31 @@
-### Hi there 👋
+<h2> Hi, I'm Shawn Jim!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Enginner at Shanghai </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+</p>
 
-<!--
-**ShawnJim/ShawnJim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Thaiane](https://img.shields.io/github/followers/ShawnJim?label=follow&style=social)](https://github.com/Thaiane)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/ShawnJim)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ShawnJim)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/ShawnJim)](https://badges.pufler.dev)
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const ShawnJim = {
+  pronouns: "he",
+  code: [JAVA, PYTHON，SHELL, REACTOR],
+  tools: [Reactor-JAVA, Docker,Spring-Boot,Spring-Cloud],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  communities: {
+      apache: "Apache ShenYu Committer",
+  },
+  challenge: "No Code"
+}
+```
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShawnJim&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<p align="left">
+<a href="https://github.com/ShawnJim">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShawnJim&layout=compact&langs_count=10&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShawnJim&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</a>
+</p>
