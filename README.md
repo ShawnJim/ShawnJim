@@ -1,5 +1,5 @@
 <h2> Hi, I'm Shawn Jim!<img src="https://media.giphy.com/media/MbFCzuwZSyr30jvJyb/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at Shanghai </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Software Enginner at Shanghai </a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBzN3pweTNnMmw5bmt0Y3hqZjRqZWdpNHBxbHBtdzYyMXVjcnk5MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iHzL7id1GDPujinsdB/giphy.gif" width="30"></br>
 </p>
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/ShawnJim?label=follow&style=social)](https://github.com/Thaiane)
@@ -7,7 +7,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/ShawnJim)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/ShawnJim)](https://badges.pufler.dev)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBzN3pweTNnMmw5bmt0Y3hqZjRqZWdpNHBxbHBtdzYyMXVjcnk5MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/giniNwsaphfXjfYBRA/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const ShawnJim = {
