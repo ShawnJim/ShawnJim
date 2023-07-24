@@ -11,7 +11,7 @@
 
 ```javascript
 const ShawnJim = {
-  pronouns: "he",
+  pronouns: "He",
   code: [JAVA, PYTHON, SHELL, REACT],
   tools: [Reactor-JAVA, Docker, Spring-Boot, Spring-Cloud],
   architecture: ["microservices", "event-driven", "design system pattern"],
