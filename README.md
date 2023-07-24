@@ -1,4 +1,4 @@
-<h2> Hi, I'm Shawn Jim!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Shawn Jim!<img src="https://media.giphy.com/media/MbFCzuwZSyr30jvJyb/giphy.gif" width="50"></h2>
 <p><em>Software Enginner at Shanghai </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </p>
 
