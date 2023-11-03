@@ -18,7 +18,8 @@ const ShawnJim = {
   communities: {
       apache: "Apache ShenYu Committer",
   },
-  challenge: "NoIdeaException"
+  challenge: "NoIdeaException",
+  emails: ["jinzhenxiao@apache.org", "cn.shawnjim@gmail.com"]
 }
 ```
 
