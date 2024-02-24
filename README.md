@@ -1,4 +1,4 @@
-<h2> Hi, I'm Shawn Jim!<img src="https://media.giphy.com/media/MbFCzuwZSyr30jvJyb/giphy.gif" width="50"></h2>
+<h2> Hi, I'm <a href="shawnjim.com">Shawn Jim</a><img src="https://media.giphy.com/media/MbFCzuwZSyr30jvJyb/giphy.gif" width="50"></h2>
 <p><em>Based in Shenzhen, currently seeking job opportunities. </a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBzN3pweTNnMmw5bmt0Y3hqZjRqZWdpNHBxbHBtdzYyMXVjcnk5MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iHzL7id1GDPujinsdB/giphy.gif" width="30"></br>
 </p>
 
@@ -6,6 +6,8 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/ShawnJim)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/ShawnJim)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/ShawnJim)](https://badges.pufler.dev)
+
+
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBzN3pweTNnMmw5bmt0Y3hqZjRqZWdpNHBxbHBtdzYyMXVjcnk5MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/giniNwsaphfXjfYBRA/giphy.gif" width="50"> A little more about me...  
 
