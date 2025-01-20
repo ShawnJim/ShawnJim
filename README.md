@@ -1,5 +1,5 @@
 <h2> Hi, I'm <a href="https://shawnjim.com">Shawn Jim</a><img src="https://media.giphy.com/media/MbFCzuwZSyr30jvJyb/giphy.gif" width="50"></h2>
-<p><em>Based in Shenzhen, currently seeking job opportunities. </a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBzN3pweTNnMmw5bmt0Y3hqZjRqZWdpNHBxbHBtdzYyMXVjcnk5MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iHzL7id1GDPujinsdB/giphy.gif" width="30"></br>
+<p><em>Based in Shenzhen. </a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBzN3pweTNnMmw5bmt0Y3hqZjRqZWdpNHBxbHBtdzYyMXVjcnk5MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iHzL7id1GDPujinsdB/giphy.gif" width="30"></br>
 </p>
 
 [![GitHub ShawnJim](https://img.shields.io/github/followers/ShawnJim?label=follow&style=social)](https://github.com/ShawnJim)
